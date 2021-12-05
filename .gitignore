@@ -156,7 +156,6 @@ fabric.properties
 ### Maven ###
 .mvn/
 target/
-pom.xml
 mvnw
 mvnw.cmd
 pom.xml.tag

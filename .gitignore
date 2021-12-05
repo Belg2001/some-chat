@@ -46,6 +46,7 @@ sketch
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
+.idea/
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
@@ -153,7 +154,11 @@ fabric.properties
 # Edit at https://www.toptal.com/developers/gitignore?templates=maven
 
 ### Maven ###
+.mvn/
 target/
+pom.xml
+mvnw
+mvnw.cmd
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -186,8 +191,8 @@ testdbteststt.tmp/
 *.mdb
 *.pdb
 *.sqlite3
-*.script
-*.properties
-*.lck
+testdbteststt.script
+testdbteststt.properties
+testdbteststt.lck
 
 # End of https://www.toptal.com/developers/gitignore/api/database

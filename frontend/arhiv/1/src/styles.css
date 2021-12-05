@@ -1,0 +1,16 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 24px;
+    background-clip: grey;
+  }
+  
+.Chat {
+  height: 500px;
+  width: 80%;
+  overflow-y: scroll;
+  }
+
+.Mes {
+  background-color: grey;
+}

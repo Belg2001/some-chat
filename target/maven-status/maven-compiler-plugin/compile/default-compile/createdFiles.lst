@@ -1,0 +1,7 @@
+com\belg\somechat\wsconfig\WebSocketConfig.class
+com\belg\somechat\msstr\MessageStructure.class
+com\belg\somechat\wscontrol\WebSocketController.class
+com\belg\somechat\SomeChatApplication$1.class
+com\belg\somechat\SomeChatApplication.class
+com\belg\somechat\db\MesDataRepository.class
+com\belg\somechat\db\MesData.class
